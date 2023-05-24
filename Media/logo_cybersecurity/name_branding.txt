@@ -1,0 +1,6 @@
+
+            Main text Font: Supermercado One
+            Slogan Text Font: Rubik Mono One
+            COLOR RGBA: rgba(44, 37, 89, 1.0)
+            COLOR HEX: #2c2559
+            
